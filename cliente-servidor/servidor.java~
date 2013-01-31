@@ -7,7 +7,6 @@
 import java.net.*;
 import java.io.*;
 
-//clase servidor
 public class servidor
 {
     public static void main(String args[])
